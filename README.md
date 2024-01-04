@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nameless0l
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning python , C, C++, Java
+- 🌱 I’m currently learning python , C, C++, Java, dart and PHP.
 - 💞️ I am looking to collaborate on projects to create frameworks and system software 
 - 📫 How to reach me 
 
