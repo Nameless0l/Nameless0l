@@ -1,22 +1,22 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🦊%20Nameless0l%20🦊&fontSize=90&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Nameless0l%20🤖&fontSize=90&animation=fadeIn)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My++name+is+Mbassi+Loic+Aron+;I'm+the+King+)](https://git.io/typing-svg)
-
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Nameless0l&color=blueviolet)](https://github.com/Nameless0l)
-
-</div>
 
 
 </div>
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt="Votre Bannière" width="100%"/>
+</div>
+
+
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My++name+is+Mbassi+Loic+Aron+;I'm+the+King+)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nameless0l&color=blueviolet)](https://github.com/Nameless0l)
 </div>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -63,7 +63,7 @@ class RenardExcentrique:
 </tr>
 </table>
 
-## 📞 Comment me contacter ?
+## 📞 Contact me ?
 
 <p align="center">
 	<a href="mailto:wwwmbassiloic@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -75,10 +75,10 @@ class RenardExcentrique:
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
-## 🎯 Arsenal Technologique
+## 🎯 Techno
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Apercu de l'arsenal Technologique👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Somme programming language and platform👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -88,17 +88,31 @@ class RenardExcentrique:
   </a>
 </p>
 
-## 📊 Mes Statistiques
+<p align="center">
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
+  <p align="center">
+    <a href="https://github.com/Nameless0l/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nameless0l/github-readme-stats" />
+    </a>
+    <a href="https://github.com/Nameless0l/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Nameless0l/github-readme-stats?color=0088ff" />
+    </a>
+  </p>
+
+</p>
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Nameless0l&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&icon_color=FFB300&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub" /> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nameless0l\&show_icons=true\&theme=radical)
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nameless0l&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FFB300&currStreakLabel=FF6B00&bg_color=0d1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nameless0l&layout=compact&langs_count=8&card_width=320\&show_icons=true\&theme=radical)
 </td>
 </tr>
 </table>
@@ -110,9 +124,19 @@ class RenardExcentrique:
 <img src="https://github-profile-trophy.vercel.app/?username=Nameless0l&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
 </div>
 
+<p align="center">
+ <h2 align="center">Wakatime Stat</h2>
+  <a href="https://github.com/Nameless0l/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nameless&layout=compact&langs_count=8&card_width=320\&show_icons=true\&theme=radical" />
+  </a>
+  <a href="https://github.com/Nameless0l/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless0l&layout=compact&langs_count=8&card_width=320\&show_icons=true\&theme=radical" />
+  </a>
 
 
-## Projets Épiques en Cours
+</p>
+
+## 🎬 Contributions
 
 <div align="center">
 
@@ -123,14 +147,10 @@ class RenardExcentrique:
 </div>
 
 
-
-
-## 🎬 Contributions
-
-## 🎮 Mon graphe de Contributions ... un serpent le mange !
+## 🎮 Euhhh !
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt="Votre Bannière" width="100%"/>
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
@@ -179,7 +199,7 @@ class RenardExcentrique:
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://leetcode.com/u/nameless0l/"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
@@ -187,7 +207,7 @@ class RenardExcentrique:
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+    <a href="https://www.google.com/search?q=mbassi+ewolo+loic+aron&oq=Mbassi+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgcIAhAAGIAEMgYIAxBFGDwyBggEEEUYPTIGCAUQRRg8MgYIBhBFGEEyBggHEEUYQdIBCDMzNjBqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
@@ -201,10 +221,8 @@ class RenardExcentrique:
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=170&section=footer)
