@@ -25,35 +25,50 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Long+texte;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf" alt="Typing SVG" /></a>
+Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cass
 
 <table>
 <tr>
 <td>
 
 ```python
-class RenardExcentrique:
+class TechWizard:
     def __init__(self):
-        self.identité = {
-            "nom": "Donfack Pascal Arthur",
-            "rôle": "Développeur Full Stack & Ethical Hacker",
-            "Parcours_academique": "École Polytechnique de Yaoundé",
-            "passion": ["Code Créatif", "Sécurité", "Innovation"]
+        self.identity = {
+            "name": "Mbassi Loic Aron",
+            "title": "Full Stack Developer & Security Enthusiast",
+            "location": "🌍 Cameroon",
+            "education": "École Polytechnique de Yaoundé",
         }
-        self.stack_technique = {
-            "mobile": ["Flutter", "Dart"],
-            "backend": ["Django", "Flutter", "JEE", "Spring"],
-            "frontend": ["HTML5", "CSS3", "JavaScript","React","Angular","Flutter"],
-            "sécurité": ["Kali Linux", "Penetration Testing"],
-            "devops": ["Docker", "Firebase", "GitHub Actions"]
-        }
-        self.projets_actuels = [
-            "Applications mobiles innovantes 📱",
-            "Solutions de sécurité créatives 🔐",
-            "Systèmes full-stack élégants ⚡"
+
+    def code_philosophy(self) -> str:
+        return """
+        def life_motto():
+            while alive:
+                learn_something_new()
+                build_amazing_things()
+                help_others()
+                if tired:
+                    coffee.drink()
+                    continue
+                dream_big()
+        """
+    def get_daily_routine(self) -> list:
+        return [
+            "☕ Fuel up with coffee",
+            "💻 Write elegant code",
+            "🔐 Hack the planet (ethically)",
+            "🚀 Push boundaries",
+            "📚 Learn new technologies",
+            "🎮 Debug life with some gaming"
         ]
-        
-    def mission_quotidienne(self):
-        return "Repousser les limites du possible avec style ! 🚀"
+    def contact_me(self):
+        return {
+            "email": "wwwmbassiloic@gmail.com",
+            "linkedin": "mbassi-loic-3942a9246",
+            "github": "Nameless0l",
+            "twitter": "@MbassiLoic"
+        }
 ```
 
 </td>
@@ -62,6 +77,8 @@ class RenardExcentrique:
 </td>
 </tr>
 </table>
+
+
 
 ## 📞 Contact me ?
 
@@ -103,19 +120,10 @@ class RenardExcentrique:
 </p>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nameless0l&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless0l&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<table>
-<tr>
-<td width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nameless0l\&show_icons=true\&theme=radical)
-</td>
-<td width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nameless0l&layout=compact&langs_count=8&card_width=320\&show_icons=true\&theme=radical)
-</td>
-</tr>
-</table>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nameless0l&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
@@ -124,6 +132,12 @@ class RenardExcentrique:
 <img src="https://github-profile-trophy.vercel.app/?username=Nameless0l&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
 </div>
 
+## 💭 Quote of the Day
+<div align="center">
+  <blockquote>
+    "The only way to do great work is to love what you do." - Steve Jobs
+  </blockquote>
+</div>
 <p align="center">
  <h2 align="center">Wakatime Stat</h2>
   <a href="https://github.com/Nameless0l/convoychat">
