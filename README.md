@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My++name+is+Mbassi+Loic+Aron+;I'm+the+King+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+%F0%9F%91%8B+I'm+Lo%C3%AFc+Aron+MBASSI+EWOLO;Full+Stack+Developer+%7C+AI+Researcher;ENSEA+%26+Polytechnique+Yaound%C3%A9;Building+cool+stuff+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nameless0l&color=blueviolet)](https://github.com/Nameless0l)
 </div>
 
