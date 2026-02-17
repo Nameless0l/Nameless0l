@@ -23,9 +23,17 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
+🎓 **Double-degree Engineering Student** at **ENSEA** (France) & **École Polytechnique de Yaoundé** (Cameroon)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Long+texte;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf" alt="Typing SVG" /></a>
-Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cassBon je viens completer apres, je suis cass
+💻 **Full Stack Developer** with 3+ years of experience building scalable web applications (Laravel, React, Node.js)
+
+🤖 **AI/ML Enthusiast** - Former Research Assistant at **MILA** (Quebec AI Institute), working on Grokking & Interpretability
+
+🏆 **Hackathon Winner** - 1st place IndabaX Africa 2025, CITS National, Mountain Hub Regional
+
+🔬 Currently working on **Autonomous Robotics** (CoHoMa Challenge), **Computer Vision**, and **Embedded AI**
+
+🌍 Based in **Cergy, France** | Open to **internships** (April 2026) & **alternance** (Sept 2026)
 
 <table>
 <tr>
@@ -35,39 +43,31 @@ Bon je viens completer apres, je suis cass Bon je viens completer apres, je suis
 class TechWizard:
     def __init__(self):
         self.identity = {
-            "name": "Mbassi Loic Aron",
-            "title": "Full Stack Developer & Security Enthusiast",
-            "location": "🌍 Cameroon",
-            "education": "École Polytechnique de Yaoundé",
+            "name": "Loïc Aron MBASSI EWOLO",
+            "title": "Full Stack Dev | AI Research | Embedded Systems",
+            "location": "🇫🇷 Cergy, France",
+            "education": ["ENSEA", "Polytechnique Yaoundé"],
         }
-
-    def code_philosophy(self) -> str:
-        return """
-        def life_motto():
-            while alive:
-                learn_something_new()
-                build_amazing_things()
-                help_others()
-                if tired:
-                    coffee.drink()
-                    continue
-                dream_big()
-        """
-    def get_daily_routine(self) -> list:
-        return [
-            "☕ Fuel up with coffee",
-            "💻 Write elegant code",
-            "🔐 Hack the planet (ethically)",
-            "🚀 Push boundaries",
-            "📚 Learn new technologies",
-            "🎮 Debug life with some gaming"
+        self.expertise = [
+            "Backend: Laravel, Spring Boot, NestJS",
+            "Frontend: React, Next.js, Flutter",
+            "AI/ML: PyTorch, TensorFlow, Computer Vision",
+            "Embedded: C/C++, STM32, Jetson, FPGA"
         ]
+
+    def current_focus(self) -> list:
+        return [
+            "🚗 Autonomous Vehicles (CoHoMa Challenge)",
+            "🧠 Deep Learning & Model Interpretability",
+            "⚡ Embedded AI Optimization"
+        ]
+
     def contact_me(self):
         return {
-            "email": "wwwmbassiloic@gmail.com",
-            "linkedin": "mbassi-loic-3942a9246",
-            "github": "Nameless0l",
-            "twitter": "@MbassiLoic"
+            "email": "loicaron.mbassiewolo@ensea.fr",
+            "linkedin": "linkedin.com/in/loic-mbassi",
+            "github": "github.com/Nameless0l",
+            "portfolio": "mbassiloic.tech"
         }
 ```
 
